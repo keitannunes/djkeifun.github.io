@@ -30,6 +30,12 @@
 		list-style: none;
 	}
 
+	#ad1 {
+		position: absolute;
+		left: 67%;
+		top: 350px;
+	}
+
 	blockquote, q {
 		quotes: none;
 	}
